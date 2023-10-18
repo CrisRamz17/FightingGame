@@ -1,0 +1,20 @@
+Controls for Game:
+
+Player a.k.a Red Square:
+
+W: Jump
+A: Left
+S: Punch 
+D: Right 
+
+Enemy a.k.a Blue Square:
+
+Use Arrow Keys to perform same functions
+
+Arrow Up: Jump
+Arrow Left: Left
+Arrow Down: Punch 
+Arrow Right: Right
+
+Tutorial Credit: https://www.youtube.com/watch?v=vyqbNFMDRGQ&ab_channel=ChrisCourses
+
